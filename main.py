@@ -3,7 +3,7 @@ from domain import calcula_notas
 pesos = [1,2,3,4,5]
 
 st.set_page_config(
-    page_title='°Minha Nota SiSU',
+    page_title='Minha Nota SiSU',
     page_icon='🎓'
 )
 st.title("Minha Nota SISU")
