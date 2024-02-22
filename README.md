@@ -1,2 +1,2 @@
 # Minha Nota SiSU
-[Clique aqui para acessar!](https://geradordecpf.streamlit.app)
+[Clique aqui para acessar!](https://minhanotasisu.streamlit.app)
