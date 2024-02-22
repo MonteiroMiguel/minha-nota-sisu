@@ -2,7 +2,7 @@ import streamlit as st
 from domain import calcula_notas
 pesos = [1,2,3,4,5]
 
-st.title("Minha Nota Sisu")
+st.title("Minha Nota SISU")
 
 col1, col2 = st.columns(2)
 
